@@ -1,0 +1,41 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# CDK asset staging directory
+.cdk.staging
+cdk.out
+
+# Environment variables
+.env
+.venv
+env/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# AWS
+.aws/
+
+# Local data files
+data/
+*.csv
+*.json
+*.parquet
+
+# Logs
+*.log
